@@ -11,11 +11,26 @@ The notebook covers importing datasets, exploring data, handling missing values,
 ## Project Structure
 
 ```
-Data Preprocessing and Curation/
-│
-├── Data_Preprocessing_and_Curation.ipynb
-├── README.md
-└── dataset.csv
+## Project Structure
+
+```text
+AI_ML/
+└── Supervised Learning/
+    └── 1. Data preprocessing and curation/
+        ├── 01_Data_Loading_Beginner_Guide.ipynb
+        ├── 02_Missing_Value_Handling_Beginner_Guide.ipynb
+        ├── 03_Feature_Scaling_Beginner_Guide.ipynb
+        ├── 04_PCA_Beginner_Guide.ipynb
+        ├── 05_Final_Project.ipynb
+        └── README.md
+
+Google Drive
+└── MyDrive/
+    └── Colab Notebooks
+        └── Datasets/
+            └── dataset.csv
+```
+
 ```
 
 ---
