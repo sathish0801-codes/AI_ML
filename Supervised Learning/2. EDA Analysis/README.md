@@ -56,7 +56,7 @@ images/eda_visualizations.png
 Then display it using:
 
 ```markdown
-![How to Understand EDA Visualizations](images/eda_visualizations.png)
+![How to Understand EDA Visualizations](assets/Visualizing_EDA.png)
 ```
 
 ![How to Understand EDA Visualizations](assets/Visualizing_EDA.png)
