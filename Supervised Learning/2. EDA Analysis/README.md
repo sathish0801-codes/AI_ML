@@ -47,18 +47,6 @@ Key Insights
 
 # 🖼️ EDA Visualization Cheat Sheet
 
-Place your uploaded infographic in the repository under:
-
-```text
-images/eda_visualizations.png
-```
-
-Then display it using:
-
-```markdown
-![How to Understand EDA Visualizations](assets/Visualizing_EDA.png)
-```
-
 ![How to Understand EDA Visualizations](assets/Visualizing_EDA.png)
 
 ---
